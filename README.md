@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Yair Jeri 👋
 
-<!--
-**YairJeri/YairJeri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student based in Lima, Peru.  
+Most of my projects are personal experiments exploring machine learning, algorithms, and systems programming—mostly trying to build things from the ground up to understand how they actually work.
 
-Here are some ideas to get you started:
+🌐 **Portfolio & CV:** [yairjeri.github.io/CV](https://yairjeri.github.io/CV)  
+📫 **Email:** [Guidoyair@hotmail.com](mailto:Guidoyair@hotmail.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/yair-jeri-37113436b)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I've been working on
+
+- **[CineGraph](https://github.com/YairJeri/cinegraph)** — An experimental movie recommendation and graph visualization tool built over the MovieLens dataset (33M ratings) using Polars, PyTorch, and SVD. Includes a live browser map on GitHub Pages ([live demo](https://yairjeri.github.io/cinegraph/)).
+- **[CPPNN](https://github.com/YairJeri/CPPNN)** — A small neural network library written from scratch in C++17, experimenting with Vulkan compute shaders for GPU matrix multiplication and Dear ImGui for live inspection.
+- **[NeuroOps](https://github.com/YairJeri/NeuroOps)** — A basic distributed training pipeline written in Go with Docker, exploring how tasks can be scheduled between a master server and worker nodes.
+- **[Minesweeper CSP](https://github.com/YairJeri/MinesweeperCSP)** — A bot that plays Minesweeper by reading the screen with OpenCV and calculating exact cell probabilities with Bayesian inference.
+- **[Network Engine](https://github.com/YairJeri/NetworkLibrary)** — A multithreaded networking library in C++17 testing asynchronous TCP/UDP socket handling.
+
+---
+
+### Technologies I enjoy using
+
+- **Languages:** C++, Python, Go, Java, TypeScript, SQL
+- **Libraries & Tools:** PyTorch, Polars, Docker, Linux, Git, Astro / Preact
+
+---
+
+### Interactive Visualizers
+
+I also built a few interactive algorithm labs directly in the browser (sorting algorithms, pathfinding on procedural mazes, and simple physics/cellular automata):  
+👉 Check them out here: [yairjeri.github.io/CV/en/playground](https://yairjeri.github.io/CV/en/playground)
