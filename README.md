@@ -13,7 +13,7 @@ Most of my projects are personal experiments exploring machine learning, algorit
 - **[CineGraph](https://github.com/YairJeri/cinegraph)** — An experimental movie recommendation and graph visualization tool built over the MovieLens dataset (33M ratings) using Polars, PyTorch, and SVD. Includes a live browser map on GitHub Pages ([live demo](https://yairjeri.github.io/cinegraph/)).
 - **[CPPNN](https://github.com/YairJeri/CPPNN)** — A small neural network library written from scratch in C++17, experimenting with Vulkan compute shaders for GPU matrix multiplication and Dear ImGui for live inspection.
 - **[NeuroOps](https://github.com/YairJeri/NYC-Taxi-Demand)** — A basic distributed training pipeline written in Go with Docker, exploring how tasks can be scheduled between a master server and worker nodes.
-- **[Minesweeper CSP](https://github.com/YairJeri/MinesweeperCSP)** — A bot that plays Minesweeper by reading the screen with OpenCV and calculating exact cell probabilities with Bayesian inference.
+- **[Minesweeper CSP](https://github.com/YairJeri/minesweeper-csp)** — A bot that plays Minesweeper by reading the screen with OpenCV and calculating exact cell probabilities with Bayesian inference.
 - **[Network Engine](https://github.com/YairJeri/NetworkLibrary)** — A multithreaded networking library in C++17 testing asynchronous TCP/UDP socket handling.
 
 ---
